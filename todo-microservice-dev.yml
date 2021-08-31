@@ -10,7 +10,7 @@ usermanagement:
       name: rs0
       username: admin
       password: admin
-      primary: 127.0.0.1
-      port: 27019
+      primary: mongo1
+      port: 27017
       database: udemy
       authentication-database: admin
